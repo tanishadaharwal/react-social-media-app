@@ -1,3 +1,5 @@
+This project is live at https://react-social-media-app-b4c96.web.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
