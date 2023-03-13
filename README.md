@@ -1,4 +1,4 @@
-This project is live at https://react-social-media-app-b4c96.web.app/
+
 
 # Getting Started with Create React App
 
